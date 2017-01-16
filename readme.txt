@@ -6,3 +6,5 @@ creating a new branch is quick
 Creating a new branch is quick& simple.s
 git a feature110000master
 featur 111000111
+love me
+qiut
